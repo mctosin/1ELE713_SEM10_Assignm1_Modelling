@@ -1,6 +1,6 @@
-# 1ELE713_SEM9_Assignm1_GFS
+# 1ELE713_SEM10_Assignm1_Modelling
 
-Lista de exercícios sobre grafos de fluxo de sinal no arquivo 1ELE713-Sem9-Assignm1-GFS-Lista1.pdf neste repositório.
+A Lista de exercícios sobre modelagem de sistemas mecânicos e eletônicos encontra-se no arquivo 1ELE713-Sem10-Assignm1-Mechnical_and_electrical_systems_modelling-Lista1.pdf neste repositório.
 
 Observações:
 
